@@ -4,3 +4,6 @@
 
 
 "Agentic YOLO" is a hands-on series where I combine Autogen multi-agent AI frameworks with YOLO for real-world computer vision tasks. Learn how AI agents can collaborate, make decisions, and use YOLO’s object detection to build powerful, automated workflows. Perfect for anyone exploring the future of intelligent agents and computer vision."
+
+
+Youtube Playlist Link : https://youtube.com/playlist?list=PLOrAK0hj3mBrcnpiBL_V8urmnn5RYeyjy&si=0nwPUZC4PXNBm1DA
